@@ -1,4 +1,11 @@
 <?php
+/**
+ * Boolean.class.php
+ *
+ * Sensible constants for booleans
+ */
+namespace Docnet\SensibleConstants;
+
 interface Boolean {
    const
       TRUE = true,

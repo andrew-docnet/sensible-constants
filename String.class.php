@@ -1,4 +1,11 @@
 <?php
+/**
+ * String.class.php
+ *
+ * Sensible constants for Strings
+ */
+namespace Docnet\SensibleConstants;
+
 interface String {
    const
       DUCK = 'Duck',
