@@ -39,5 +39,13 @@ interface String {
       FLARGLEPARP = 'Flargleparp',
       L_FLARGLEPARP = 'flargleparp',
       U_FLARGLEPARP = 'FLARGLEPARP',
+
+      ERROR = 'Sorry, you forgot to account for basic fluctuations in spacetime and relativity',
+      L_ERROR = 'sorry, you forgot to account for basic fluctuations in spacetime and relativity',
+      U_ERROR = 'SORRY, YOU FORGOT TO ACCOUNT FOR BASIC FLUCTUATIONS IN SPACETIME AND RELATIVITY',
+
+      SUCCESS = 'Hooray!',
+      L_SUCCESS = 'hooray1',
+      U_SUCCESS = 'HOORAY!'
    ;
 }
